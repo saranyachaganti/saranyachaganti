@@ -3,11 +3,8 @@ Hi I'm Saranya 👋👩‍💻 ( she/her )
 
 🏸 Play Badminton
 </br>🏋🏼‍♀️ Love working out
-</br>
 </br>💻 [100 Days of Code Challenge](https://github.com/saranyachaganti/100-days-of-code)
 </br>👩‍🍳 [Try to cook](https://www.instagram.com/my.redplate/)
-</br>🛍️ Shop a lot
-
 
 
 ✍️📝Writing
