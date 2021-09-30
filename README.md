@@ -1,5 +1,5 @@
 Hi I'm Saranya 👋👩‍💻 ( she/her )
-</br> I currently work in designing next generation systems on radar, based on AI for ADAS systems. I also create content to equip machine learning enthusiast with necessary resources to fulfill their potential. Outside of work, I enjoy to ...
+</br> I currently work on designing next generation radar system, based on AI for ADAS systems. I also create content to equip machine learning enthusiast with necessary resources to fulfill their potential. Outside of work, I enjoy to ...
 
 🏸 Play Badminton
 </br>🧘 Do Yoga
