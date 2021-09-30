@@ -3,7 +3,7 @@ Hi I'm Saranya 👋👩‍💻 ( she/her )
 
 🏸 Play Badminton
 </br>🧘 Do Yoga
-</br>💻 100 Days of Code Challenge
+</br>💻 [100 Days of Code Challenge](https://github.com/saranyachaganti/100-days-of-code)
 </br>👩‍🍳 Trying to learn cooking
 
 
