@@ -8,6 +8,6 @@ Do Yoga
 ✍️📝Writing
 
 📬Connect with Me📬
-[LinkedIn](https://www.linkedin.com/in/ch-saranya/)
-[Instagram]
-[Medium]
+	• [LinkedIn](https://www.linkedin.com/in/ch-saranya/)
+	• [Instagram]
+
