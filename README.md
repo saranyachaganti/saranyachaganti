@@ -14,5 +14,5 @@ Hi I'm Saranya 👋👩‍💻 ( she/her )
 📬Connect with Me📬
   * [LinkedIn](https://www.linkedin.com/in/ch-saranya/)
   * [Instagram]
-  * [Medium]
+  * [Medium](https://medium.com/@chagantisaranya2)
 
