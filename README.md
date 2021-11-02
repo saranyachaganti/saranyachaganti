@@ -4,6 +4,7 @@ Hi I'm Saranya 👋👩‍💻 ( she/her )
 🏸 Play Badminton
 </br>🏋🏼‍♀️ Love working out
 </br>💻 [100 Days of Code Challenge](https://github.com/saranyachaganti/100-days-of-code)
+</br>💻 [100 Days of ML Challenge](https://github.com/saranyachaganti/100-days-of-code)
 </br>👩‍🍳 [Try to cook](https://www.instagram.com/my.redplate/)
 
 
